@@ -1,0 +1,15 @@
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe.config
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.exe
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\BaiTapCuoiKi.pdb
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csprojAssemblyReference.cache
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form1.resources
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Form2.resources
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.Properties.Resources.resources
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.GenerateResource.cache
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.exe
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.pdb
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\EntityFramework.dll
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\EntityFramework.xml
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chang\source\repos\BaiTapCuoiKi\BaiTapCuoiKi\obj\Debug\BaiTapCuoiKi.csproj.CopyComplete
